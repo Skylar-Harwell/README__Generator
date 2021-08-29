@@ -1,5 +1,5 @@
 # README_Generator
-  https://github.com/Skylar-Harwell/README_Generator
+  https://github.com/Skylar-Harwell/README__Generator
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 # Description
 A quick and simple README Generator for use with your projects. With the simple answering of a few questions a README file will be created dynamically for you in your repository. Areas for Licenses, Contributors, and much more are available. Try it out now!
